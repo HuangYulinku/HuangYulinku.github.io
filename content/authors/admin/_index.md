@@ -6,15 +6,15 @@ title: 黄羽霖
 name_pronunciation: Huang Yu Lin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yu Lin
+last_name: Huang 
 
 # Pronouns (optional)
 pronouns: MR.
 
 # Status emoji
 status:
-  icon: beer
+  icon: car
 
 # Is this the primary user of the site?
 superuser: true
@@ -62,6 +62,7 @@ education:
     date_end: 2028-09-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    
   - area: MEng Earth System Science and Technology
     institution: Kyushu University
     date_start: 2018-04-01
@@ -80,7 +81,7 @@ education:
  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Engineer of algorithm
     company_name: Jihua laboratory
     company_url: 'http://jihualab.ac.cn/english/'
     company_logo: ''
@@ -88,7 +89,7 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - As Engineer at Intelligent Tradition Chinese Medicine Group in Jihua Laboratory, in charge of Pulse Diagnosis Localization Algorithm Research and Blood Oxygen Detection Algorithm Development for Home Safety Disabled Elderly's development.
+      - Work for Intelligent Tradition Chinese Medicine Group in Jihua Laboratory, in charge of Pulse Diagnosis Localization Algorithm Research and Blood Oxygen Detection Algorithm Development for Home Safety Disabled Elderly's development.
   - position: Backend Software Engineer
     company_name: Guangdong Jihua New Display Equipment Co.Ltd.
     company_url: ''
@@ -115,7 +116,7 @@ skills:
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -125,10 +126,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Driving
         description: ''
         percent: 100
-        icon: cat
+        icon: car
       - name: Photography
         description: ''
         percent: 80
@@ -136,11 +137,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 85
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: Japanese
+    percent: 65
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -176,4 +177,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Huang Yulin is a doctoral student at Northeastern University. His research interests include using machine learning and various time-series signal analysis methods to develop technologies that extract information indicating mental states from electroencephalograms (EEGs) and autonomic nervous system signals such as heart rate and respiration.
