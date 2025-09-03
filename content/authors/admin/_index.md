@@ -113,22 +113,16 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 60
-        icon: circle-stack
+    
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Driving
+      - name: Traveling
         description: ''
         percent: 100
-        icon: vehicle
+        icon: person-simple-walk
+    
       - name: Photography
         description: ''
         percent: 80
