@@ -130,7 +130,7 @@ skills:
       - name: Driving
         description: ''
         percent: 100
-        icon: car
+        icon: wheel
       - name: Photography
         description: ''
         percent: 80
