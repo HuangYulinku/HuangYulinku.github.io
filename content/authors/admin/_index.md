@@ -91,7 +91,7 @@ work:
     summary: |
       Responsibilities include:
       - Work for Intelligent Tradition Chinese Medicine Group in Jihua Laboratory, in charge of Pulse Diagnosis Localization Algorithm Research and Blood Oxygen Detection Algorithm Development for Home Safety Disabled Elderly's development.
-  - position: Backend Software Engineer
+  - position: Project Management Specialist
     company_name: Guangdong Jihua New Display Equipment Co.Ltd.
     company_url: ''
     company_logo: ''
@@ -99,7 +99,7 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - As a project management specialist, be responsible for liaising with domestic new display equipment companies and engaging in project management work.
+      - Be responsible for liaising with domestic new display equipment companies and engaging in project management work.
       
 
 # Skills
