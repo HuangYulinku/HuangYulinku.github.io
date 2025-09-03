@@ -14,6 +14,7 @@ pronouns: MR.
 
 # Status emoji
 status:
+  color: 'white'
   icon: ☁️
 
 # Is this the primary user of the site?
