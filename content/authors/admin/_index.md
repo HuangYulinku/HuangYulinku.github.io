@@ -13,9 +13,7 @@ last_name: Huang
 pronouns: MR.
 
 # Status emoji
-status:
-  color: 'white'
-  icon: ☁️
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -130,7 +128,7 @@ skills:
       - name: Driving
         description: ''
         percent: 100
-        icon: wheel
+        icon: vehicle
       - name: Photography
         description: ''
         percent: 80
