@@ -39,7 +39,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-         I'm a researcher in the Moonshot Project at Tohoku University. I blog about Machine learning, Deep learning.
+        I'm a researcher in the Moonshot Project at Tohoku University. I blog about Machine learning, Deep learning.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the Neuropharmacology.
         
